@@ -1,1 +1,2 @@
-# Energy-saving-beacons-2021
+# Energy-saving-beacons-2021 
+协会首次尝试信标组，积累经验ing……
